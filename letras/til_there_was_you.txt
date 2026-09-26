@@ -1,0 +1,28 @@
+letra={
+  titulo:"Til there was you",
+  tonalidad:"F",
+  letra:`
+[F] [Dm] [Gm] [C]
+[F] [Dm] [Gm] [C]
+
+There were b[F]ells on a h[Am]ill, But I n[A#]ever heard them r[A#m]inging,
+no, I n[F]ever he[Am]ard them at [Gm]all,[C] 'til there was yo[F]u. [Dm] [Gm] [C]
+There were b[F]irds in the sk[Am]y, But I n[A#]ever saw them w[A#m]inging
+no, I n[F]ever s[Am]aw them at [Gm]all,[C] 'til there was yo[F]u. [F7]
+
+	ESTRIBILLO
+Then there was m[A#]usic,[A#m] and wonderful r[F]oses,
+th[Am]ey tell me, in sw[Gm]eet fragrant meadows, of d[G]awn, and d[C]ew.
+
+There was l[F]ove all aro[Am]und, but I n[A#]ever heard it s[A#m]inging,
+no, I n[F]ever h[Am]eard it at [Gm]all,[C] 'til there was yo[F]u. [F7]
+
+[A#] [A#m] [F] [Am] [G#m][Gm] [G] [C] [F] [F7]
+
+	ESTRIBILLO
+
+There was l[F]ove all aro[Am]und, but I n[A#]ever heard it s[A#m]inging,
+no, I n[F]ever h[Am]eard it at [Gm]all,[C] 'til there was yo[F]u,
+'t[C]il there was yo[F][A#m][F]u.
+`
+  };

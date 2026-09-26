@@ -194,24 +194,19 @@ async function mostrarAudioLetraAcordes(audio_file, tono_audio, txt_file) {
 }        
 
 function buscarCanciones(canciones) {
-    function sinAcentos(t) {
-      return t.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-      }  
   la_letra="x"
   document.getElementById('bloque_audio').innerHTML=""
   document.getElementById('bloque_letra').innerHTML=""
-  tiempo=document.getElementById('tiempo').value
-  misa=document.getElementById('misa').value
-  momento=document.getElementById('momento').value
-  texto=document.getElementById('textoBusqueda').value.toLowerCase()
+  const idiomaFiltro=document.getElementById('idioma').value
+  const interpreteFiltro=document.getElementById('interprete').value
+  const estiloFiltro=document.getElementById('estilo').value
 
   document.getElementById("resultados").innerHTML = ""
 
   canciones_filtradas = canciones.filter(c =>
-      ( tiempo==="" || (c.tiempos.includes(tiempo))) &&
-      ( misa==="" || (c.misas.includes(misa))) &&
-      ( momento==="" || (c.momentos.includes(momento))) &&
-      ( texto==="" || sinAcentos(c.titulo).toLowerCase().includes(sinAcentos(texto)))
+      ( idiomaFiltro==="" || c.idioma===idiomaFiltro) &&
+      ( interpreteFiltro==="" || c.interprete===interpreteFiltro) &&
+      ( estiloFiltro==="" || c.estilo===estiloFiltro)
       )
 
   canciones_filtradas.sort((a,b)=>a.titulo.localeCompare(b.titulo))
@@ -235,12 +230,17 @@ function buscarCanciones(canciones) {
 async function listarCanciones(txt_file) {///////---- función asíncrona que lee la lista de todas las canciones
     canciones = await (await fetch((txt_file))).text();
     canciones = eval(canciones)
-    document.getElementById("tiempo").addEventListener("change", () => buscarCanciones(canciones));
-    document.getElementById("misa").addEventListener("change", () => buscarCanciones(canciones));
-    document.getElementById("momento").addEventListener("change", () => buscarCanciones(canciones));
-    document.getElementById("textoBusqueda").addEventListener("change", () => buscarCanciones(canciones));
-    document.getElementById("btnBuscar").addEventListener("click", () => buscarCanciones(canciones));
+    ["idioma", "interprete", "estilo"].forEach(campo => {
+      const selector = document.getElementById(campo);
+      const valores = [...new Set(canciones
+        .map(c => c[campo])
+        .filter(valor => typeof valor === "string" && valor.trim() !== ""))]
+        .sort((a, b) => a.localeCompare(b));
+
+      valores.forEach(valor => selector.add(new Option(valor, valor)));
+      selector.addEventListener("change", () => buscarCanciones(canciones));
+    });
+    buscarCanciones(canciones);
 }
  
 listarCanciones("canciones.txt")
-

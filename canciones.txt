@@ -1,9 +1,9 @@
 canciones = [
     {
         "titulo":"Till there was you",
-        "tiempos":["No filtrar"],
-        "misas":["No filtrar"],
-        "momentos":["No filtrar","Santo"],
+        "idioma":"Inglés",
+        "interprete":"Beatles",
+        "estilo":"Rock",
         "audio":"audios/santo_b.mp4",
         "tono_audio":"D",
         "txt":"letras/til_there_was_you.txt",

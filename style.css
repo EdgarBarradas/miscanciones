@@ -1,0 +1,16 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+select, button, input { margin: 5px; padding: 5px; }
+input[type="text"] { width: 250px; }
+h1 { color: darkblue; }
+
+.cancion {border: 1px solid #ccc; border-radius: 8px; color: darkblue; margin: 0px;}
+.result {margin: 0px;}
+#letra { font-family: sans-serif; }
+
+.letra_estrofa { line-height: 1.2; -webkit-text-size-adjust: none; text-size-adjust: none; margin-top: 0px; margin-bottom: 0px; white-space: pre;}/* Linea de estrofa */
+.acorde_estrofa { font-size: 0.8em; color: red; line-height: 1.2; margin-top: 0px; margin-bottom: 0px; white-space: pre;}/* Acordes de estrofa */
+
+.letra_estrib { line-height: 1.2; font-style: italic; font-weight: bold; -webkit-text-size-adjust: none; text-size-adjust: none; margin-top: 0px; margin-bottom: 0px; background-color: rgb(220, 220, 220); white-space: pre;}/* Linea de estribillo */
+.acorde_estrib { font-size: 0.8em; color: red; line-height: 1.2; margin-top: 0px; margin-bottom: 0px; background-color: rgb(220, 220, 220); white-space: pre;}/* Acordes de estribillo */
+
+

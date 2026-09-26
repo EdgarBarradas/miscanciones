@@ -6,6 +6,6 @@ canciones = [
         "momentos":["No filtrar","Santo"],
         "audio":"audios/santo_b.mp4",
         "tono_audio":"D",
-        "txt":"letras/santo_b.txt",
+        "txt":"letras/til_there_was_you.txt",
       },
 ]

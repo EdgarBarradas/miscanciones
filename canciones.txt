@@ -4,7 +4,7 @@ canciones = [
         "idioma":"Inglés",
         "interprete":"Beatles",
         "estilo":"Rock",
-        "audio":"audios/santo_b.mp4",
+        "audio":"audios/santo_b.",
         "tono_audio":"D",
         "txt":"letras/til_there_was_you.txt",
       },

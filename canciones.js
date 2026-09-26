@@ -109,9 +109,15 @@ function pinta_linea_1(linea, bloque){
 
 function crear_bloque_letra(letra){////////////////////////////------Esta función dibuja el bloque de la letra y los acordes de una canción
   document.getElementById("bloque_letra").innerHTML = '<h2 id="titulo">'+letra.titulo+'</h2>'
-  document.getElementById("bloque_letra").innerHTML += '<h3 style="display:inline-block; margin-right:10px;" id="tonalidad" data-value="'+letra.tonalidad+'">tonalidad: '+x(letra.tonalidad)+'</h3>'
-  document.getElementById("bloque_letra").innerHTML += '<label style="display:inline-block;">Transponer a:</label>'
-  document.getElementById("bloque_letra").innerHTML += '<select id="transponer" onchange=transponer(this.value)></select>'
+  const controlesCancion = document.getElementById("controles_cancion");
+  const controlesHTML = '<h3 style="display:inline-block; margin:0;" id="tonalidad" data-value="'+letra.tonalidad+'">tonalidad: '+x(letra.tonalidad)+'</h3>'
+    + '<label style="display:inline-block;">Transponer a:</label>'
+    + '<select id="transponer" onchange=transponer(this.value)></select>';
+  if (controlesCancion) {
+    controlesCancion.innerHTML = controlesHTML;
+  } else {
+    document.getElementById("bloque_letra").innerHTML += controlesHTML;
+  }
   
   if (letra.tonalidad.charAt(letra.tonalidad.length - 1)=='m'){
     tonalidades_m.forEach((t,i)=>{

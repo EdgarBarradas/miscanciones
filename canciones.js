@@ -15,10 +15,13 @@ function x(n){
   }
 }
 
-document.getElementById("notacion").addEventListener("change", function() {
-  notacion=this.value;
-  if (la_letra!=="x"){crear_bloque_letra(la_letra)}
-})
+const selectorNotacion=document.getElementById("notacion");
+if (selectorNotacion) {
+  selectorNotacion.addEventListener("change", function() {
+    notacion=this.value;
+    if (la_letra!=="x"){crear_bloque_letra(la_letra)}
+  })
+}
 
 function actualizar_notacion(){
   notacion=document.getElementById('temp_acorde').value

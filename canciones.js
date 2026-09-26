@@ -244,8 +244,21 @@ function buscarCanciones(canciones) {
 
 
 async function listarCanciones(txt_file) {///////---- función asíncrona que lee la lista de todas las canciones
-    canciones = await (await fetch((txt_file))).text();
-    canciones = eval(canciones);
+    try {
+      const respuesta = await fetch(txt_file);
+      if (!respuesta.ok) {
+        throw new Error(`No se pudo cargar ${txt_file}: ${respuesta.status}`);
+      }
+      const contenido = await respuesta.text();
+      canciones = eval(contenido);
+    } catch (error) {
+      const resultados = document.getElementById("resultados");
+      if (resultados) {
+        resultados.textContent = "No se pudieron cargar las canciones. " + error.message;
+      }
+      return;
+    }
+
     const indiceCancion = new URLSearchParams(window.location.search).get("indice");
     if (indiceCancion !== null) {
       const cancion = canciones[Number(indiceCancion)];
@@ -262,15 +275,25 @@ async function listarCanciones(txt_file) {///////---- función asíncrona que le
 
     ["idioma", "interprete", "estilo"].forEach(campo => {
       const selector = document.getElementById(campo);
+      if (!selector) return;
+
       const valores = [...new Set(canciones
         .map(c => c[campo])
         .filter(valor => typeof valor === "string" && valor.trim() !== ""))]
         .sort((a, b) => a.localeCompare(b));
 
-      valores.forEach(valor => selector.add(new Option(valor, valor)));
+      valores.forEach(valor => {
+        const opcion = document.createElement("option");
+        opcion.value = valor;
+        opcion.textContent = valor;
+        selector.appendChild(opcion);
+      });
       selector.addEventListener("change", () => buscarCanciones(canciones));
     });
-    document.getElementById("btnBuscar").addEventListener("click", () => buscarCanciones(canciones));
+    const botonBuscar = document.getElementById("btnBuscar");
+    if (botonBuscar) {
+      botonBuscar.addEventListener("click", () => buscarCanciones(canciones));
+    }
     buscarCanciones(canciones);
 }
  

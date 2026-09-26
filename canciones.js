@@ -235,7 +235,7 @@ function buscarCanciones(canciones) {
 
 async function listarCanciones(txt_file) {///////---- función asíncrona que lee la lista de todas las canciones
     canciones = await (await fetch((txt_file))).text();
-    canciones = eval(canciones)
+    canciones = eval(canciones);
     ["idioma", "interprete", "estilo"].forEach(campo => {
       const selector = document.getElementById(campo);
       const valores = [...new Set(canciones

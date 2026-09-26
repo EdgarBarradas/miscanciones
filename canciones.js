@@ -194,19 +194,25 @@ async function mostrarAudioLetraAcordes(audio_file, tono_audio, txt_file) {
 }        
 
 function buscarCanciones(canciones) {
+  function sinAcentos(texto) {
+    return texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  }
+
   la_letra="x"
   document.getElementById('bloque_audio').innerHTML=""
   document.getElementById('bloque_letra').innerHTML=""
   const idiomaFiltro=document.getElementById('idioma').value
   const interpreteFiltro=document.getElementById('interprete').value
   const estiloFiltro=document.getElementById('estilo').value
+  const textoFiltro=sinAcentos(document.getElementById('textoBusqueda').value.trim()).toLowerCase()
 
   document.getElementById("resultados").innerHTML = ""
 
   canciones_filtradas = canciones.filter(c =>
       ( idiomaFiltro==="" || c.idioma===idiomaFiltro) &&
       ( interpreteFiltro==="" || c.interprete===interpreteFiltro) &&
-      ( estiloFiltro==="" || c.estilo===estiloFiltro)
+      ( estiloFiltro==="" || c.estilo===estiloFiltro) &&
+      ( textoFiltro==="" || sinAcentos(c.titulo).toLowerCase().includes(textoFiltro))
       )
 
   canciones_filtradas.sort((a,b)=>a.titulo.localeCompare(b.titulo))
@@ -240,6 +246,7 @@ async function listarCanciones(txt_file) {///////---- función asíncrona que le
       valores.forEach(valor => selector.add(new Option(valor, valor)));
       selector.addEventListener("change", () => buscarCanciones(canciones));
     });
+    document.getElementById("btnBuscar").addEventListener("click", () => buscarCanciones(canciones));
     buscarCanciones(canciones);
 }
  

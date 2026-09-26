@@ -224,10 +224,11 @@ function buscarCanciones(canciones) {
     if (c.txt.includes(".")){txt_icon = " 📄"}
     showing_title = c.titulo + txt_icon + audio_icon
     tono_audio_global = c.tono_audio
+    const indice = canciones.indexOf(c)
 
     document.getElementById('resultados').innerHTML += `
       <div class="cancion">
-        <h3 class="result" onclick="mostrarAudioLetraAcordes('${c.audio}', '${c.tono_audio}', '${c.txt}')">${showing_title} </h3>
+        <h3 class="result"><a href="cancion.html?indice=${indice}" target="_blank" rel="noopener">${showing_title}</a></h3>
       </div>`;
   });  
 }
@@ -236,6 +237,20 @@ function buscarCanciones(canciones) {
 async function listarCanciones(txt_file) {///////---- función asíncrona que lee la lista de todas las canciones
     canciones = await (await fetch((txt_file))).text();
     canciones = eval(canciones);
+    const indiceCancion = new URLSearchParams(window.location.search).get("indice");
+    if (indiceCancion !== null) {
+      const cancion = canciones[Number(indiceCancion)];
+      if (!Number.isInteger(Number(indiceCancion)) || !cancion) {
+        document.title = "Canción no encontrada";
+        document.getElementById("bloque_letra").textContent = "No se encontró la canción solicitada.";
+        return;
+      }
+
+      document.title = cancion.titulo;
+      mostrarAudioLetraAcordes(cancion.audio, cancion.tono_audio, cancion.txt);
+      return;
+    }
+
     ["idioma", "interprete", "estilo"].forEach(campo => {
       const selector = document.getElementById(campo);
       const valores = [...new Set(canciones

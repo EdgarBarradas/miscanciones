@@ -9,12 +9,12 @@ canciones = [
         "txt":"letras/til_there_was_you.txt",
       },
     {
-        "titulo":"La negra Tomasa",
+        "titulo":"Cumpleaños gaitero",
         "idioma":"Español",
-        "interprete":"Caifanes",
-        "estilo":"Rock",
+        "interprete":"Anónimo",
+        "estilo":"Polular",
         "audio":"audios/santo_b.",
         "tono_audio":"D",
-        "txt":"letras/til_there_was_you.txt",
+        "txt":"letras/cumple_gaitero.txt",
       },
 ]

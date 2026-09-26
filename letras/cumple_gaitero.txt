@@ -1,0 +1,19 @@
+letra={
+  titulo:"Cumpleaños gaitero",
+  tonalidad:"D",
+  letra:`
+Que rep[D]iquen las campanas, hoy [B]es el más bello d[Em]ía,
+todo es amor y alegr[A]ía, que noche tan linda y gr[D]ata.
+
+Con mi felicitaci[C]ón amigo h[D]oy te canto a t[G]i,
+dese[C]ando que pases h[D]oy  un cumple[A]años fel[D]iz.
+
+Felicid[A]ades, felicid[D]ades,
+hoy te des[Em]ean amig[A]os y famili[D]ares,
+y tu bien s[F#]abes que la mía es especi[Bm]al,
+un cumple[E]años que nunca vas a olvid[A]ar
+
+Cumple[Em]años fel[A]iz, te dese[F#m]amos a t[B]i,
+cumple[Em]añ[A]os fel[D]iz.
+`
+  };

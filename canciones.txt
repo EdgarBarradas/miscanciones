@@ -8,4 +8,13 @@ canciones = [
         "tono_audio":"D",
         "txt":"letras/til_there_was_you.txt",
       },
+    {
+        "titulo":"La negra Tomasa",
+        "idioma":"Español",
+        "interprete":"Caifanes",
+        "estilo":"Rock",
+        "audio":"audios/santo_b.",
+        "tono_audio":"D",
+        "txt":"letras/til_there_was_you.txt",
+      },
 ]

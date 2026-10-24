@@ -1,0 +1,32 @@
+letra={
+  titulo:"Color esperanza",
+  tonalidad:"G",
+  letra:`
+S[G]é que hay en tus [D]ojos con s[B]olo mir[Em]ar,
+que estás cans[G]ado de and[G7]ar y de and[C]ar,
+y camin[G]ar, girando si[C]empre en un lug[D]ar.
+
+S[G]é que las vent[D]anas se pu[B]eden abr[Em]ir,
+cambiar el [G]aire dep[G7]ende de t[C]i,
+te ayudar[G]á, vale la p[C]ena una vez m[D]ás.
+
+	ESTRIBILLO
+Saber que se pu[G]ede quer[D]er que se pu[Em]eda,
+quitarse los mi[C]edos sacarlos afu[D]era
+pintarse la c[G]ara col[D]or esper[Em]anza
+tentar al fut[C]uro con el coraz[D]ón. 
+
+[G]Es mejor perd[D]erse que n[B]unca embarc[Em]ar,
+mejor tent[G]arse a dej[G7]ar de intent[C]ar,
+aunque ya v[G]es, que no es tan f[C]ácil empez[D]ar.
+
+S[G]é que lo impos[D]ible se pu[B]ede logr[Em]ar,
+que la trist[G]eza algún d[G7]ía se ir[C]á,
+y así ser[G]á, la vida c[C]ambia y cambiar[D]á. 
+
+Sentir[Em]ás que el [D]alma vu[G]ela
+por cant[C]ar una vez m[D]ás.
+
+	ESTRIBILLO
+`
+  };

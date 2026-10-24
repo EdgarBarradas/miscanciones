@@ -1,0 +1,21 @@
+letra={
+  titulo:"Campanita que vais repicando",
+  tonalidad:"G",
+  letra:`
+[G] [E] [Am] [C] [D] [G] [G] [E] [Am] [C] [D] [G]
+
+Campan[G]ita que v[D]ais repic[G]ando,
+Navidad,[D] vais alegre cant[G]ando, [G7]
+y a mi ll[C]egan los dulces recuerdos,
+del hogar bend[D]ito donde me cri[G]é, [G] [E] [Am]
+de aquella viej[D]ita que tanto ador[G]é, [G] [E] [Am]
+mi madre del [D]alma que no olvidar[G]é.
+
+Navid[G]ad, que c[D]on dulce cant[G]ar, [G7]
+se celebra en las [C]almas,[G] que saben am[C]ar,
+oh, que tr[Cm]iste es andar por la v[G]ida, [E]
+por senda perd[Am]ida, [D] lejos del hog[G]ar, [G7]
+sin o[C]ír una v[Cm]oz cariñ[G]osa, [E]
+que diga amor[Am]osa, [D] llegó Nav[G]idad. [G] [E] [Am] [C] [D] [G] 
+`
+  };

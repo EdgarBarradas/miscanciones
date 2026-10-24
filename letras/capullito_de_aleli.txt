@@ -1,0 +1,24 @@
+letra={
+  titulo:"Capullito de alelí",
+  tonalidad:"F",
+  letra:`
+[F]
+
+Lindo cap[C]ullo de alelí, si tú supi[F]eras mi dolor,
+correspondi[C]eras a mi amor, y calm[F]aras mi sufrir,
+porque tú s[D]abes que sin ti, la vida es n[Gm]ada para mí,
+tú bien lo s[C]abes c[A#]apull[Am]ito de [Gm]alel[F]í. (2)
+
+No hay en el m[A]undo para mí, otro cap[Dm]ullo de alelí,
+que yo le br[A]inde mi pasión, y que le d[Dm]é mi corazón,
+porque tú [G]eres la mujer, a quien he d[C]ado mi querer,
+y te jur[G]é lindo alelí, fidelid[C]ad hasta morir.
+
+Por eso y[C]o te canto a ti, mi capull[F]ito de alelí,
+dame tu ar[C]oma seductor, y un poqu[F]ito de tu amor,
+porque tú sabes que sin ti, la vida es nada para mí,
+tú bien lo s[C]abes c[A#]apull[Am]ito de [Gm]alel[F]í.
+
+Tú bien lo s[C]abes c[A#]apull[Am]ito de [Gm]alel[F]í. (2)
+`
+  };

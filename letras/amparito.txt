@@ -1,0 +1,35 @@
+letra={
+  titulo:"Amparito",
+  tonalidad:"A",
+  letra:`
+[E] [A] [E] [A] [D] [G] [D] [G] [E] [A]
+
+[A]En un viaje que hice a Barranqu[E]illa, conocí a una linda colombi[A]ana,
+me quedé, [F#] me quedé con las g[Bm]anas, de cas[E]arme con esa chiqu[A]illa. (2)
+
+	ESTRIBILLO
+Amparit[E]o, Amparit[A]o, te olvidaste del negr[E]ito, tu maracuch[A]ito,
+Amparit[E]o, Amparit[A]o, te creía mujer bu[E]ena, te fuiste pa' Cartag[A]ena,
+Amparit[E]o, Amparit[A]o, [A7]
+Te est[D]aba pensando, me est[A]abas buscando
+por t[E]oda Colombia te est[A]aba esper[A7]ando, [D]
+Porque yo pens[A]aba que me idolatr[E]abas, con el coraz[A]ón.
+
+[E] [A] [E] [A] [D] [G] [D] [G] [E] [A]
+
+Amparito baila con solt[E]ura, cuando escucha este ritmo, mi herm[A]ano,
+ella dice [F#] que el venezol[Bm]ano, ay, sí ti[E]ene fuego en la cint[A]ura. (2)
+	ESTRIBILLO
+
+Amparit[E]o, Amparit[A]o,
+Quiero sentarme contigo en la hierb[E]ita, y decirte tantas lindas cos[A]itas,
+Amparit[E]o, Amparit[A]o,
+Me creí del mundo du[E]eño, pero solo era un su[A]eño.
+Amparit[E]o, Amparit[A]o, [A7]
+Te est[D]aba pensando, me est[A]abas buscando
+por t[E]oda Colombia te est[A]aba esper[A7]ando, [D]
+Porque yo pens[A]aba que me idolatr[E]abas, con el coraz[A]ón.
+
+[E] [A] [E] [A] [D] [G] [D] [G] [E] [A]
+`
+  };

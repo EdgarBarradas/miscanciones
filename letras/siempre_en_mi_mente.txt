@@ -1,0 +1,30 @@
+letra={
+  titulo:"Siempre en mi mente",
+  tonalidad:"C",
+  letra:`
+T[C]ú estás siempre en mi m[F]ente,
+pienso en t[C]i amor cada inst[G]ante.
+¿C[C]ómo quieres t[C7]ú que te olv[F]ide si estás tú
+siempre t[C]ú, tú, tú,[G] siempre en mi m[C]ente? [F] [C](2)
+
+	ESTRIBILLO
+¿Qué voy hac[G]er? No sé, no encuentro n[C]ada, nada, nada,
+la soluci[G]ón, no sé como encontr[C]arla dime,
+tr[F]ato de olvid[C]arte y yo, qui[F]ero olvid[C]arte
+y yo no s[G]é, cómo te olv[C]ido. [F] [G]
+Siempre en mi m[C]ente. [F] [G]
+
+T[C]ú estás siempre en mi m[F]ente
+¿Cómo hic[C]iste tú para olvid[F]arme?
+Ay[C]údame a olvid[C7]ar en mi m[F]ente siempre estás
+siempre t[C]ú, tú, tú,[G] siempre en mi m[C]ente?
+	ESTRIBILLO
+
+¿Cómo te olv[C]ido? [F] [G]
+Siempre en mi m[C]ente v[F]ida mí[G]a.
+
+Siempre en mi m[C]ente. [F] [G]
+¿Cómo te olv[C]ido? [F] [G]
+Siempre en mi m[C]e-[F]ent[C]e.
+`
+  };

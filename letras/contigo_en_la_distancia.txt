@@ -1,0 +1,19 @@
+letra={
+  titulo:"Contigo en la distancia",
+  tonalidad:"G",
+  letra:`
+​No ex[Am]iste un mom[D]ento del d[G]ía, en que pu[Am]eda apart[D7]arme de t[G]i,
+​el m[Am]undo par[B]ece dist[Em]into, cu[A7]ando no estas junto a m[C]i-[Cm]i-[D7]i.
+
+​No hay bella melod[Am]ía,[D] en que no surjas t[G]ú, [Em]
+ni yo quiero escuch[Am]arla,[D] si no la escuchas t[G]ú.
+
+[B7]
+
+​Es que te has convert[Em]ido,[F#] en parte de mi [Bm]alma, [E]
+ya nada me consu[Am]ela,[D] si no estás tu tambi[Bm]én. [E]
+
+​Más allá de tus l[Am]abios,[F] del s[D]ol y las estr[Bm]ellas, [Em]
+contigo a la dist[Am]ancia, amada m[D]ía, est[G]oy.
+`
+  };

@@ -2,45 +2,80 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Mis canciones</title>
-  <link rel="stylesheet" href="style.css">	
+  <link rel="stylesheet" href="style.css">
 </head>
-<body>
-  <h1>Buscador de Canciones</h1>
+<body class="buscador-page">
+  <header class="buscador-header">
+    <div>
+      <p class="buscador-eyebrow">Tu música, a tu manera</p>
+      <h1>Encuentra tu próxima canción</h1>
+      <p class="buscador-intro">Explora la colección y descubre letras, acordes y canciones para cada momento.</p>
+    </div>
+    <span class="buscador-nota" aria-hidden="true">♫</span>
+  </header>
 
-  <!-- Filtros -->
-  <label>Idioma:</label>
-  <select id="idioma">
-    <option value="" selected>No filtrar</option>
-  </select><br>
+  <main class="buscador-main">
+    <section class="filtros-panel" aria-labelledby="filtros-titulo">
+      <div class="panel-heading">
+        <div>
+          <p class="panel-eyebrow">Explora la colección</p>
+          <h2 id="filtros-titulo">¿Qué te gustaría cantar?</h2>
+        </div>
+      </div>
 
-  <label>Intérprete:</label>
-  <select id="interprete">
-    <option value="" selected>No filtrar</option>
-  </select><br>
+      <div class="filtros-grid">
+        <div class="filtro-campo">
+          <label for="idioma">Idioma</label>
+          <select id="idioma">
+            <option value="" selected>No filtrar</option>
+          </select>
+        </div>
 
-  <label>Estilo:</label>
-  <select id="estilo">
-    <option value="" selected>No filtrar</option>
-  </select><br>
+        <div class="filtro-campo">
+          <label for="interprete">Intérprete</label>
+          <select id="interprete">
+            <option value="" selected>No filtrar</option>
+          </select>
+        </div>
 
-  <label>Buscar por texto:</label>
-  <input type="text" id="textoBusqueda" placeholder="Buscar por título...">
-  <button id="btnBuscar">Buscar</button>
+        <div class="filtro-campo">
+          <label for="estilo">Estilo</label>
+          <select id="estilo">
+            <option value="" selected>No filtrar</option>
+          </select>
+        </div>
 
-  <div id="bloque_letra_audio">
-	  <div id="bloque_letra"></div>
-	  <div id="bloque_audio"></div>	  
-  </div>
-	
-  <h3>Resultados:</h3>	
-  <div id="resultados"></div>
+        <div class="filtro-campo filtro-busqueda">
+          <label for="textoBusqueda">Buscar por título</label>
+          <div class="busqueda-controles">
+            <input type="text" id="textoBusqueda" placeholder="Ej. una canción..." autocomplete="off">
+            <button id="btnBuscar" type="button">Buscar <span aria-hidden="true">→</span></button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="resultados-panel" aria-labelledby="resultados-titulo">
+      <div class="resultados-heading">
+        <div>
+          <p class="panel-eyebrow">Para ti</p>
+          <h2 id="resultados-titulo">Canciones</h2>
+        </div>
+      </div>
+      <div id="resultados"></div>
+    </section>
+
+    <section id="bloque_letra_audio" class="cancion-panel" aria-label="Letra y audio de la canción">
+      <div id="bloque_letra"></div>
+      <div id="bloque_audio"></div>
+    </section>
+  </main>
 
   <script src="canciones.js"></script>
-
 </body>
 </html>
-
 
 
 

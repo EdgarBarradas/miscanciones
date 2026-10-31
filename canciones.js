@@ -290,9 +290,12 @@ async function listarCanciones(txt_file) {///////---- función asíncrona que le
       });
       selector.addEventListener("change", () => buscarCanciones(canciones));
     });
-    const botonBuscar = document.getElementById("btnBuscar");
-    if (botonBuscar) {
-      botonBuscar.addEventListener("click", () => buscarCanciones(canciones));
+    const formularioBusqueda = document.getElementById("formBusqueda");
+    if (formularioBusqueda) {
+      formularioBusqueda.addEventListener("submit", event => {
+        event.preventDefault();
+        buscarCanciones(canciones);
+      });
     }
     buscarCanciones(canciones);
 }

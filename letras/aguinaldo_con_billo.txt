@@ -1,0 +1,42 @@
+letra={
+  titulo:"Aguinaldo con Billo",
+  tonalidad:"D",
+  letra:`
+[Dm] [D7] [Gm] [A7] [Dm]
+
+En las navidades, c[D7]anto con car[Gm]iño, para que se al[A7]egren, todos mis am[Dm]igos. (2)
+[Dm] [D7] [Gm] [A7] [Dm]
+
+En las navidades, c[D7]anto con car[Gm]iño, para que se al[A7]egren, todos mis am[Dm]igos.
+Yo le pido al cielo, que [D7]estas navid[Gm]ades, traigan alegr[A7]ía y prosperid[D]ades.
+
+[D] [A7] [D] [A7] [D]
+
+
+La Billo’s Caracas, pide al dios del ci[A7]elo, que todos pasemos feliz año nu[D]evo,
+y cantemos todos con el coraz[A7]ón, comiendo hallaquitas y tomando r[D]on.
+
+La Billo’s Caracas, pide al dios del ci[A7]elo, que todos pasemos feliz año nu[D]evo,
+en las navidades canto con car[A7]iño, para que se alegren todos mis am[D]igos.
+
+[D] [A7] [D] [A7] [D]
+
+La Billo’s Caracas, pide al dios del ci[A7]elo, que todos pasemos feliz año nu[D]evo,
+yo le pido al cielo, que estas navid[A7]ades, traigan alegría y prosperid[D]ades.
+
+[A7] [D] [A7] [D]
+
+Navidad[A7]es y año nu[D]evo, que todos pas[A7]emos feliz año nu[D]evo.
+Navidad[A7]es y año nu[D]evo, comiendo hallaqu[A7]itas y bebiendo r[D]on
+Navidad[A7]es y año nu[D]evo, un feliz [A7]año pa’ti un feliz año pa’m[D]í.
+
+[A7] [D] [A7] [D]
+
+Navidad[A7]es y año nu[D]evo, La Billo’s Car[A7]acas, pide al dios del ci[D]elo,
+Navidad[A7]es y año nu[D]evo, que todos pas[A7]emos feliz año nu[D]evo,
+Navidad[A7]es y año nu[D]evo,un feliz [A7]año pa’ti un feliz año pa’m[D]í.
+
+[Dm] [D7] [Gm] [A7] [D]
+
+`
+  };

@@ -1,0 +1,36 @@
+letra={
+  titulo:"Cantemos con alegría",
+  tonalidad:"Am",
+  letra:`
+[Am] [F] [E] [Am] [E] [Am] [E] [Am] [G] [C] [G] [C] [E] [Am]
+
+	ESTRIBILLO
+Cant[Am]emos con alegría pero c[F]on felicid[E]ad,
+que el niño Jesús bendito, con nosotros estar[Am]á,
+con nos[E]otros estar[Am]á.
+
+Ya nu[G]estro Jesús llegó, llegó con mucha alegr[C]ía,
+lo r[G]ecibiremos todos, cantando el Ave Mar[C]ía,
+cantand[E]o el Ave Mar[Am]ía.
+	ESTRIBILLO
+
+Yo t[G]e pido virgencita, que en esta gran navid[C]ad,
+mientr[G]as yo me encuentro lejos, tú me cuides a mam[C]á,
+tú me cu[E]ides a mam[Am]á.
+	ESTRIBILLO
+
+[Am] [E] [Am] [E] [Am] [E] [Am] [G] [C] [G] [C] [E] [Am]
+
+
+Est[G]a noche es noche buena, pero que buena ser[C]á,
+que s[G]e acerca el año nuevo, y también la navid[C]ad,
+y tambi[E]én la navid[Am]ad.
+	ESTRIBILLO
+
+Cóm[G]o suenan las campanas, como se ve la alegr[C]ía,
+y t[G]odos están felices, en este bendito d[C]ía,
+en est[E]e bendito d[Am]ía.
+
+[Dm] [Am] [E] [Am] [Dm] [Am] [E] [Am]
+`
+  };

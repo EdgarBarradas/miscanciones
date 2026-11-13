@@ -1,0 +1,25 @@
+letra={
+  titulo:"Donde está San Nicolas",
+  tonalidad:"D",
+  letra:`
+	ESTRIBILLO
+D[D]in D[A]an, D[G]in D[D]an,
+suena campan[Em]ada armoniosa, su[A]ena sin ces[D]ar.
+D[D]in D[A]an, D[G]in D[D]an,
+Y el niño trist[E]e al oírte , se pondre a cant[A]ar.
+T[G]u tañido tr[D]ae la dicha[A] en la navid[D]ad, [D7]
+y u[G]n mensaje d[D]e esperanza [A]a la humanid[D]ad.
+
+Los niños pobres preguntan, d[G]onde está San Nicol[D]ás,
+[G]y los n[C7]iños ricos ju[D]egan, y los n[B]iños ricos ju[Em]egan,
+felic[A]es en Navid[D]ad. (2)
+
+	ESTRIBILLO
+
+Triste se ve el huerfanito, cam[G]inado en la ciud[D]ad,
+qu[G]e no ti[C7]ene ni un jugu[D]ete, que no ti[B]ene ni un jugu[Em]ete,
+ni el cal[A]or de su mam[D]á. (2)
+
+	ESTRIBILLO
+`
+  };

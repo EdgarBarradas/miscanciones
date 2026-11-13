@@ -1,0 +1,21 @@
+letra={
+  titulo:"El niño criollo",
+  tonalidad:"A",
+  letra:`
+	ESTRIBILLO
+[A]Si la Virgen fuera and[B]ina, y San José de los ll[E]anos,
+El n[D]iño Jesús ser[A]ía, un n[E]iño venezol[A]ano. (2)
+
+Tendría los ojos negr[E]itos, quién s[D]abe si aguarap[A]aos,
+y l[D]a cara tostad[A]ita, del s[E]ol que por estos l[A]ados. (2)
+	ESTRIBILLO
+
+Por cuna denle un chinch[E]orro, chiqu[D]ito, muy bien tej[A]ido,
+y L[D]a Virgen mecer[A]ía, al N[E]iño Jesús dorm[A]ido. (2)
+	ESTRIBILLO
+
+El crecería en la mont[E]aña, cab[D]algaría por los ll[A]anos,
+cant[D]ándole a las estr[A]ellas, con s[E]u cuatrico en la m[A]ano. (2)
+	ESTRIBILLO
+`
+  };

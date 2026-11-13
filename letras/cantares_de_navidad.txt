@@ -1,0 +1,35 @@
+letra={
+  titulo:"Cantares de Navidad",
+  tonalidad:"D",
+  letra:`
+[Dm] [D7] [Gm] [A7] [Dm] [D7] [Gm] [A7] [Dm]
+Navidad que vuelve,[D7] tradición del [Gm]año, unos van al[A7]egres y otros van llor[Gm]ando,
+Navidad que vuelve,[D7] tradición del [Gm]año, unos van al[A7]egres y otros van llor[Gm]ando.
+Hay quien tiene t[C]odo,[A#] todo lo que qui[A]ere,[Gm] y sus navid[Dm]ades[A] siempre son al[Dm]egres,
+hay otros muy p[C]obres[A#] que no tienen n[A]ada,[Gm] son los que prefi[Dm]eren[A] que nunca lleg[Dm]ara.
+
+Navidad que vuelve,[D7] tradición del [Gm]año, unos van al[A7]egres y otros van llor[Gm]ando,
+Navidad que vuelve,[D7] tradición del [Gm]año, unos van al[A7]egres y otros van llor[Gm]ando.
+Hay quien tiene t[C]odo,[A#] todo lo que qui[A]ere,[Gm] y sus navid[Dm]ades[A] siempre son al[Dm]egres,
+Navidad que vu[C]elve,[A#] vuelve a la parr[A]anda,[Gm] en noche de r[Dm]eyes[A] todo el mundo c[Dm]anta.
+
+Navidad que vuelve,[D7] tradición del [Gm]año, unos van al[A7]egres y otros van llor[Gm]ando,
+Navidad que vuelve,[D7] tradición del [Gm]año, unos van al[A7]egres y otros van llor[Gm]ando.
+
+[D] [A7] [D] [B] [Em] [A7] [D] [A7] [D] [B] [Em] [A7] [D]
+
+Traigo un ramillete, traigo un ramillete, d[G]e un lind[D]o rosal,
+[G]un año[D] que viene y [A]otro que[D] se va, [G]un año[D] que viene y [A]otro que[D] se va.
+
+Vengo del olivo, vengo del olivo, v[G]oy pa'l [D]olivar,
+[G]un año[D] que viene y [A]otro que[D] se va, [G]un año[D] que viene y [A]otro que[D] se va.
+
+Traigo un ramillete, traigo un ramillete, d[G]e un lind[D]o rosal,
+[G]un año[D] que viene y [A]otro que[D] se va, [G]un año[D] que viene y [A]otro que[D] se va.
+
+Dime que me quieres, dime que me quieres, qu[G]e me ad[D]oras más,
+[G]un año[D] que viene y [A]otro que[D] se va, [G]un año[D] que viene y [A]otro que[D] se va.
+
+[D] [A7] [D] [B] [Em] [A7] [D]
+`
+  };

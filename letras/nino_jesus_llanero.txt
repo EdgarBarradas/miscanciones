@@ -1,0 +1,23 @@
+letra={
+  titulo:"El Niño Jesús llanero",
+  tonalidad:"Gm",
+  letra:`
+	ESTRIBILLO
+En mi conuqu[Gm]ito, las fl[Cm]ores de los c[Gm]ampos,
+ad[Cm]ornan su bell[Gm]eza, y br[D]illa su esplend[Gm]or. (2)
+
+N[Gm]iñito llan[F]ero, [Cm]indio sober[Gm]ano,
+dámele car[Cm]iño, dámele tern[D#]ura, al venezolan[D]o.
+
+L[Gm]indo pajar[F]ito, qu[Cm]e vive en el ll[Gm]ano,
+desde tu piqu[Cm]ito, dale un pedac[D#]ito, al venezolan[D]o.
+	ESTRIBILLO
+
+[Gm]Alpargata de [F]oro, c[Cm]ogollito bl[Gm]anco,
+no lo desamp[Cm]ares, vuelve tu mir[D#]ada, al venezolan[D]o.
+
+Tr[Gm]ompo seren[F]ito, qu[Cm]e baila en la m[Gm]ano,
+brindale la c[Cm]alma, que tanto le f[D#]alta, al venezolan[D]o.
+	ESTRIBILLO
+`
+  };

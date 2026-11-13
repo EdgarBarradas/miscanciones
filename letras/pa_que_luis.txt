@@ -1,0 +1,26 @@
+letra={
+  titulo:"Pa' que Luis",
+  tonalidad:"D",
+  letra:`
+	ESTRIBILLO
+Vamos todos pa′ que Lu[Em]is, allá p[A]or Santa Lucí[D]a,
+la cerv[F#m]eza está bien frí[Bm]a, y de all[E]í te vais fel[A]iz,
+en la esqu[G]ina de San Lu[D]is, te esper[A]o de noche y d[D]ía. (2)
+
+Tiene un viejo mostrad[Em]or, raton[A]es y telarañ[D]as,
+poco [G]arroz y mucha c[D]aña, que a la esquin[A]a da el sab[D]or. (2)
+	ESTRIBILLO
+
+Cabilla y Nelson Rom[Em]ero, beben r[A]on y lo que se[D]a,
+cogi[G]endo tremenda p[D]ea, al sector c[A]on el fiest[D]ero. (2)
+	ESTRIBILLO
+
+Pepitonas y diabl[Em]itos, ya tod[A]os están comiend[D]o,
+y aqu[G]el estómago ardi[D]endo, y aún me falt[A]an los boll[D]itos. (2)
+	ESTRIBILLO
+
+En la esquina de que Lu[Em]is, encontr[A]ais gaita y rancher[D]a,
+y b[G]ollos en la ponch[D]era, pa′ que no t[A]e vais de all[D]í. (2)
+	ESTRIBILLO
+`
+  };

@@ -1,0 +1,31 @@
+letra={
+  titulo:"Aguinaldo",
+  tonalidad:"G",
+  letra:`
+[G] [G7] [C] [D] [G] [C] [D] [G]
+
+Ábreme la pu[G]erta, ábreme la puerta,[G7] que yo quiero entr[C]ar,
+y después que [D]entre, vuélvela a c[G]errar,
+[C]y después que [D]entre, vuélvela a cerr[G]ar.
+[G] [G7] [C] [D] [G] [C] [D] [G]
+
+Alabemos todos, alabemos todos,[G7] al niño Jes[C]ús,
+que nació en Bel[D]én y murió en la cr[G]uz,
+qu[C]e nació en Bel[D]én y murió en la cr[G]uz.
+
+[G7] [C] [Cm] [G] [E] [Am] [D] [G]
+[G7]Por el aguj[C]ero[Cm] de la cerrad[G]ura,[E] ya se siente el b[Am]aho[D] de fritanga p[G]ura.
+[G7] [C] [Cm] [G] [E] [Am] [D] [G]
+[G7]Por el aguj[C]ero[Cm] de la cerrad[G]ura,[E] ya se siente el b[Am]aho[D] de fritanga p[G]ura.
+
+[G] [G7] [C] [D] [G] [C] [D] [G]
+
+Ábreme la pu[G]erta, ábreme la puerta,[G7] que yo quiero entr[C]ar,
+y después que [D]entre, vuélvela a c[G]errar,
+[C]y después que [D]entre, vuélvela a cerr[G]ar.
+
+[G7] [C] [Cm] [G] [E] [Am] [D] [G]
+[G7]Por el aguj[C]ero[Cm] de la cerrad[G]ura,[E] ya se siente el b[Am]aho[D] de fritanga p[G]ura.
+[G7] [C] [Cm] [G] [E] [Am] [D] [G] [C] [G]
+`
+  };

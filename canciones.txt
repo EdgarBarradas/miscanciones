@@ -23,15 +23,15 @@ canciones = [
     {
         "titulo":"Buenos días señor sol",
         "idioma":"Español",
-        "interprete":"Anónimo",
+        "interprete":"Juan Gabriel",
         "estilo":"Polular",
         "txt":"letras/buenos_dias_senor_sol.txt",
       },
     {
         "titulo":"Campanita",
         "idioma":"Español",
-        "interprete":"Anónimo",
-        "estilo":"Polular",
+        "interprete":"Julio Jaramillo",
+        "estilo":"Navideño",
         "txt":"letras/campanita.txt",
       },
     {
@@ -52,7 +52,7 @@ canciones = [
         "titulo":"La primavera",
         "idioma":"Español",
         "interprete":"Anónimo",
-        "estilo":"Polular",
+        "estilo":"Maracaibo 15",
         "txt":"letras/la_primavera.txt",
       },
     {

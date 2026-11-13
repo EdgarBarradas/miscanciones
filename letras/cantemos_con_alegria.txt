@@ -3,7 +3,6 @@ letra={
   tonalidad:"Am",
   letra:`
 [Am] [F] [E] [Am] [E] [Am] [E] [Am] [G] [C] [G] [C] [E] [Am]
-
 	ESTRIBILLO
 Cant[Am]emos con alegría pero c[F]on felicid[E]ad,
 que el niño Jesús bendito, con nosotros estar[Am]á,
@@ -20,8 +19,6 @@ tú me cu[E]ides a mam[Am]á.
 	ESTRIBILLO
 
 [Am] [E] [Am] [E] [Am] [E] [Am] [G] [C] [G] [C] [E] [Am]
-
-
 Est[G]a noche es noche buena, pero que buena ser[C]á,
 que s[G]e acerca el año nuevo, y también la navid[C]ad,
 y tambi[E]én la navid[Am]ad.

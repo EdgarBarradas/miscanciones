@@ -184,7 +184,7 @@ canciones = [
     {
         "titulo":"Viva España",
         "idioma":"Español",
-        "interprete":"Billo",
+        "interprete":"Billos",
         "estilo":"Popular",
         "txt":"letras/viva_espana.txt",
       },

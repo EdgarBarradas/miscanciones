@@ -1,0 +1,20 @@
+letra={
+  titulo:"Manos adoradas",
+  tonalidad:"Bm",
+  letra:`
+Las manos que yo qui[Bm]ero, las m[B]anos que ven[Em]ero, no son color de r[A]osa ni tienen palid[D]ez,
+sus dedos no par[Bm]ecen de gemas nacaradas, tampoco están pint[Em]adas ni ti[G]enen altiv[F#]ez.
+Son manos arrug[Bm]adas, tal ve[B]z la más hum[Em]ildes, y están cual hojas s[A]ecas de tanto trabaj[D]ar,
+son esas manos s[Em]antas las manos de mi m[Bm]adre, aquellas que me di[F#]eron con todo amor el p[Bm]an.
+
+Las manos que yo qui[Bm]ero, las m[B]anos de mi m[Em]adre, ligeras como [A]aves volando siempre v[D]an,
+las manos de mi m[Bm]adre por ágiles dichosas, si no hacen siempre [Em]algo tranqu[G]ilas nunca est[F#]án.
+Por rústicas y vi[Bm]ejas, ¡qué b[B]ellas son sus manos!, lavando tanta r[A]opa, cortando tanto p[D]an,
+corriendo por la c[Em]asa, la mesa acarici[Bm]ando, buscando en el desc[F#]anso la aguja y el ded[Bm]al.
+
+Las manos que traj[Bm]eron la l[B]ámpara a mi c[Em]ama, tapándome la esp[A]alda que en el invierno cru[D]el,
+que cuando estuve tr[Bm]iste mis lágrimas secaron, que cuando estuve enf[Em]ermo, ac[G]ariciándom[F#]e.
+¡Oh, manos ador[Bm]adas! ¡Oh, m[B]anos llenas de alma!, en ellas yo quisi[A]era mi frente refugi[D]ar,
+y tristemente d[Em]igo: ¡qué lejos que se encu[Bm]entran, tan lejos de mi ang[F#]ustia y de mi soled[Bm]ad!
+`
+  };

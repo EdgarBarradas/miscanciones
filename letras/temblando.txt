@@ -1,0 +1,26 @@
+letra={
+  titulo:"Temblando",
+  tonalidad:"A",
+  letra:`
+[A]  [D] [E]  [A]  [D] [E]
+Tembl[A]ando, con l[D]os oj[E]os cerr[A]ados,
+el ci[D]elo est[E]á nubl[F#m]ado, y a lo l[C#]ejos, tú.
+
+Habl[A]ando, de l[D]o que te h[E]a pas[A]ado, 
+int[D]entand[E]o orden[F#m]ar palabras,
+par[A+]a no hacerme, t[A]anto daño, tanto daño,
+y y[D]o, sigo tembl[E]ando. [A]  [D] [E]  [A]  [D] [E]
+
+De la m[A]ano, y c[D]on much[E]o cuid[A]ado,
+os bes[D]asteis [E]en sil[F#m]encio, dónde n[C#]o había luz.
+
+Y me hace gr[A]acia, tu man[D]era d[E]e cont[A]arlo,
+como [D]el que cu[E]enta, que h[F#m]a pensado, que ha d[A+]ecidido,
+qu[A]e seguimos siendo amigos, y y[D]o, estoy tembl[E]ando.
+
+Y llor[A]ando, me hab[F#m]ía jurado, que n[D]unca iba a llor[E]ar,
+escuch[A]ando, cad[F#m]a palabra, que n[D]o quiero escuch[E]ar,
+desgarr[A]ándome, suplic[F#m]ándote, intent[D]ando hacerte r[E]ecordar, pero t[D]ú,
+solo d[Dm]ices, "voy a colg[A]ar". [D] [E]  [A]  [D] [E] [A]
+`
+  };

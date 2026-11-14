@@ -1,0 +1,35 @@
+letra={
+  titulo:"Aquel",
+  tonalidad:"A",
+  letra:`
+Aqu[A]el, [E] [A] aquel potro patas negras,
+de crines tan marmol[F#]eñas hace unos días se muri[Bm]ó.
+Por qu[E]é, [D] [E] la dueña que lo montaba,
+que tanto lo acariciaba, hace tiempo se march[A]ó.
+
+Aqu[A]el, [E] [A] aquel turpial cantarino,
+y el azulejo mar[F#]ino ayer se fueron los d[Bm]os.
+Por qu[E]é, [D] [E] la mano de suaves mimos
+la voz de modales finos de pronto los descuid[A]ó.
+
+	ESTRIBILLO
+Por qu[A7]é, [D] aquel perro tan hermoso que juguete[E]aba cont[A]igo,
+que te ragalé un diciembre cuando nos compromet[E]imos,
+ayer lo conseguí muerto en la orilla del cam[A]ino.
+Por qu[A7]é, [D] Señor si te la llevaste eternam[E]ente cont[A]igo,
+si se fueron tras su huellas todos sus fieles am[E]igos,
+deja que yo también muera para tenerla conm[A]igo.
+
+Aqu[A]el, [E] [A] aquel riachuelo divino
+de corrientes cristal[F#]inas, seco ya está de dol[Bm]or.
+Por qu[E]é, [D] [E] porque tú no has regresado
+a refrescarte a su lado, a jugar con su col[A]or.
+
+Aqu[A]el, [E] [A] aquel rosal encendido
+que cuidabas con del[F#]irio, todito se marchit[Bm]ó.
+Por qu[E]é, [D] [E] aquella voz cantarina
+que resfrescaba su vida, nunca jamás regres[A]ó.
+	ESTRIBILLO
+
+`
+  };

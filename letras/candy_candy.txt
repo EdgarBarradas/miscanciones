@@ -1,0 +1,22 @@
+letra={
+  titulo:"Candy Candy",
+  tonalidad:"G",
+  letra:`
+[G][C][G][C][G]  [C]   [D] [G]
+Si me b[G]uscas, tú a mí, me p[E]odrás encontr[Am]ar,
+yo te espero aquí, si sí, [D]este es mi lug[G]ar.
+
+Si quieres reír, desc[E]ubre la alegr[Am]ía de soñar,
+un m[D]undo de avent[G]uras sin igual, [C]
+junto a mí, [D]a tu amiga Cand[G]y. [B]
+
+S[Em]i te sientes solo, rec[Am]urre a mí,
+t[B]e estaré esperando aqu[Em]í,
+cuéntame tu historia, te al[Am]egrará,
+s[B]aber que una amiga tendr[Em]ás. [E]
+
+B[Am]úscame, s[Em]ígueme, ll[B]ámame, Cand[Em]y, [E]
+b[Am]usca mi camino, s[Em]ígueme, r[Am]íe como C[D]and[G]y.
+[G][C][G][C][G]  [C]   [D] [G]
+`
+  };

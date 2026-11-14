@@ -1,0 +1,15 @@
+letra={
+  titulo:"En mi ventana",
+  tonalidad:"C",
+  letra:`
+[C]En mi ventana veo brillar, las estr[A]ellas muy cerc[Dm]a de mí,
+cierro los [F]ojos quiero soñ[C]ar, con un d[G]ulce porven[C]ir.
+
+Quiero vivir y disfrutar, la alegrí[A]a de la j[Dm]uventud,
+cada n[F]oche, para m[C]í, mil estr[G]ellas que den l[C]uz. [C7]
+
+J[F]ira, jira, carrus[G]el, tus ru[Em]edas de crist[Am]al,
+recorri[Dm]endo mil cam[F]inos, tu destino encontrar[G]ás,
+Cand[F]y, Cand[C]y, Cand[D]y, Cand[C]y.
+`
+  };

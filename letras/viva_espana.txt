@@ -1,0 +1,24 @@
+letra={
+  titulo:"Y viva España",
+  tonalidad:"Em",
+  letra:`
+[Am] [B] [Em] [D] [C] [B]
+Entre fl[Em]ores fandanguillos y alegría, nació mi Esp[D]aña la ti[C]erra del am[B]or,
+solo Di[Em]os pudo hacer tanta belleza, que es impos[D]ible que pueda haber d[G]os,
+y t[Am]odo el mundo sabe que es verd[B]ad, y ll[Am]oran cuando tienen que march[B]ar. [A] [G#m] [F#m]
+
+Por [E]eso siempre escucharás, y viva Esp[B]aña, y siempre la recordarás, y viva Esp[E]aña,
+la gente canta con ardor, y viva Esp[B]aña, la vida tiene otro sabor, Esp[Am]aña es l[B]a mej[Em]or. [D] [C] [B]
+
+Qué bon[Em]ito es el Mar Mediterráneo, su Costa Br[D]ava y L[C]a Costa del S[B]ol,
+la sard[Em]ana y el fandango me emocionan, porque en sus pl[D]azas hay vida y hay cal[G]or
+Esp[Am]aña siempre ha sido y lo ser[B]á, ete[Am]rno paraíso sin igu[B]al. [A] [G#m] [F#m]
+
+Por [E]eso siempre escucharás, y viva Esp[B]aña, y siempre la recordarás, y viva Esp[E]aña,
+la gente canta con ardor, y viva Esp[B]aña, la vida tiene otro sabor, Esp[Am]aña es l[B]a mej[Em]or
+
+Lar[F]ala laralarará, y viva Esp[C]aña, larala laralarará, y viva Esp[F]aña,
+la gente canta con ardor, y viva Esp[C]aña, la vida tiene otro sabor, Esp[A#m]aña es l[C]a mej[Fm]or,
+Esp[A#]aña es l[C]a mej[F]or.
+`
+  };

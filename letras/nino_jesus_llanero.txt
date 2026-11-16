@@ -7,17 +7,17 @@ En mi conuqu[Am]ito, las fl[Dm]ores de l[G]os c[C]ampos,
 ad[Dm]ornan su b[G]ell[C]eza, y br[E]illa su esplend[Am]or. (2)
 
 N[Am]iñito llan[G]ero, [Dm]indio sober[Am]ano,
-dámele car[Dm]iño, dámele tern[F]ura, al venezolan[E]o.
+dámele car[Dm]iño, dámele tern[F]ura, al venezol[E]ano.
 
 L[Am]indo pajar[G]ito, qu[Dm]e vive en el ll[Am]ano,
-desde tu piqu[Dm]ito, dale un pedac[F]ito, al venezolan[E]o.
+desde tu piqu[Dm]ito, dale un pedac[F]ito, al venezol[E]ano.
 	ESTRIBILLO
 
 [Am]Alpargata de [G]oro, c[Dm]ogollito bl[Am]anco,
-no lo desamp[Dm]ares, vuelve tu mir[F]ada, al venezolan[E]o.
+no lo desamp[Dm]ares, vuelve tu mir[F]ada, al venezol[E]ano.
 
 Tr[Am]ompo seren[G]ito, qu[Dm]e baila en la m[Am]ano,
-brindale la c[Dm]alma, que tanto le f[F]alta, al venezolan[E]o.
+brindale la c[Dm]alma, que tanto le f[F]alta, al venezol[E]ano.
 	ESTRIBILLO
 `
   };

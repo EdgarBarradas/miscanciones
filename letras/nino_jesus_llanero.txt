@@ -4,7 +4,7 @@ letra={
   letra:`
 	ESTRIBILLO
 En mi conuqu[Am]ito, las fl[Dm]ores de l[G]os c[C]ampos,
-ad[Dm]ornan su b[G]ell[C]eza, y br[E]illa su esplend[Am]or. (2)
+ad[Dm]ornan su b[E]ell[Am]eza, y br[E]illa su esplend[Am]or. (2)
 
 N[Am]iñito llan[G]ero, [Dm]indio sober[Am]ano,
 dámele car[Dm]iño, dámele tern[F]ura, al venezol[E]ano.

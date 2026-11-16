@@ -1,23 +1,23 @@
 letra={
   titulo:"El Niño Jesús llanero",
-  tonalidad:"Gm",
+  tonalidad:"Am",
   letra:`
 	ESTRIBILLO
-En mi conuqu[Gm]ito, las fl[Cm]ores de los c[Gm]ampos,
-ad[Cm]ornan su bell[Gm]eza, y br[D]illa su esplend[Gm]or. (2)
+En mi conuqu[Am]ito, las fl[Dm]ores de l[G]os c[C]ampos,
+ad[Dm]ornan su b[G]ell[C]eza, y br[E]illa su esplend[Am]or. (2)
 
-N[Gm]iñito llan[F]ero, [Cm]indio sober[Gm]ano,
-dámele car[Cm]iño, dámele tern[D#]ura, al venezolan[D]o.
+N[Am]iñito llan[G]ero, [Dm]indio sober[Am]ano,
+dámele car[Dm]iño, dámele tern[F]ura, al venezolan[E]o.
 
-L[Gm]indo pajar[F]ito, qu[Cm]e vive en el ll[Gm]ano,
-desde tu piqu[Cm]ito, dale un pedac[D#]ito, al venezolan[D]o.
+L[Am]indo pajar[G]ito, qu[Dm]e vive en el ll[Am]ano,
+desde tu piqu[Dm]ito, dale un pedac[F]ito, al venezolan[E]o.
 	ESTRIBILLO
 
-[Gm]Alpargata de [F]oro, c[Cm]ogollito bl[Gm]anco,
-no lo desamp[Cm]ares, vuelve tu mir[D#]ada, al venezolan[D]o.
+[Am]Alpargata de [G]oro, c[Dm]ogollito bl[Am]anco,
+no lo desamp[Dm]ares, vuelve tu mir[F]ada, al venezolan[E]o.
 
-Tr[Gm]ompo seren[F]ito, qu[Cm]e baila en la m[Gm]ano,
-brindale la c[Cm]alma, que tanto le f[D#]alta, al venezolan[D]o.
+Tr[Am]ompo seren[G]ito, qu[Dm]e baila en la m[Am]ano,
+brindale la c[Dm]alma, que tanto le f[F]alta, al venezolan[E]o.
 	ESTRIBILLO
 `
   };
